@@ -1,4 +1,4 @@
-The Link:
+NEXT-Website Link:
 https://amr-kzf.github.io/NEXT-Website/
 
 Github Link:
